@@ -12,4 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecb4c264e963b9d4da556d107aa5e7af, type: 3}
   m_Name: reverthpitemsconfig
   m_EditorClassIdentifier: 
-  ItemConfigs: []
+  ItemConfigs:
+  - Desc: 
+    ID: 0
+    ItemType: 0
+    ItemWeight: 0
+    PrefabPath:
+      GUID: 
+      Folder: 
+      File: 
+      Name: 
+    RevertHp: 0
+    Duration: 0
+  - Desc: 
+    ID: 0
+    ItemType: 0
+    ItemWeight: 0
+    PrefabPath:
+      GUID: 
+      Folder: 
+      File: 
+      Name: 
+    RevertHp: 0
+    Duration: 0
